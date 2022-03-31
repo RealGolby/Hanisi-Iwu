@@ -1,0 +1,20 @@
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\Hanisi Iwu.exe
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\Hanisi Iwu.deps.json
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\Hanisi Iwu.runtimeconfig.json
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\Hanisi Iwu.dll
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\Hanisi Iwu.pdb
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\bin\Debug\net6.0-windows\HtmlAgilityPack.dll
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.csproj.AssemblyReference.cache
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi_Iwu.Main.resources
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.csproj.GenerateResource.cache
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.AssemblyInfoInputs.cache
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.AssemblyInfo.cs
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.csproj.CoreCompileInputs.cache
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.csproj.CopyComplete
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.dll
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\refint\Hanisi Iwu.dll
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.pdb
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi Iwu.genruntimeconfig.cache
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\ref\Hanisi Iwu.dll
+C:\Users\golby\source\repos\Hanisi Iwu\Hanisi Iwu\obj\Debug\net6.0-windows\Hanisi_Iwu.AddMovie.resources
