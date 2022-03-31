@@ -2,10 +2,8 @@ namespace Hanisi_Iwu
 {
     public partial class Main : Form
     {
-        AddMovie addMovie;
         public Main()
         {
-            addMovie = new AddMovie();
             InitializeComponent();
         }
 
@@ -17,8 +15,7 @@ namespace Hanisi_Iwu
 
         private void AddMovieBtn_Click(object sender, EventArgs e)
         {
-            this.Controls.Add(addMovie);
-            addMovie.Dock = DockStyle.Fill;
+            AddMovie addMovie = new AddMovie();
             addMovie.Show();
         }
     }

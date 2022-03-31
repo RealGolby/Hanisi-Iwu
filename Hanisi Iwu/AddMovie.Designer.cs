@@ -38,7 +38,8 @@
             this.Rating = new System.Windows.Forms.Label();
             this.MovieName = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.LoadMovie = new System.Windows.Forms.Button();
+            this.SaveMovie = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // SpecialAwards
@@ -129,20 +130,33 @@
             this.textBox1.Size = new System.Drawing.Size(384, 23);
             this.textBox1.TabIndex = 12;
             // 
-            // button1
+            // LoadMovie
             // 
-            this.button1.Location = new System.Drawing.Point(107, 62);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(164, 37);
-            this.button1.TabIndex = 11;
-            this.button1.Text = "Add Movie";
-            this.button1.UseVisualStyleBackColor = true;
+            this.LoadMovie.Location = new System.Drawing.Point(101, 62);
+            this.LoadMovie.Name = "LoadMovie";
+            this.LoadMovie.Size = new System.Drawing.Size(164, 37);
+            this.LoadMovie.TabIndex = 22;
+            this.LoadMovie.Text = "Add Movie";
+            this.LoadMovie.UseVisualStyleBackColor = true;
+            this.LoadMovie.Click += new System.EventHandler(this.LoadMovie_Click);
+            // 
+            // SaveMovie
+            // 
+            this.SaveMovie.Location = new System.Drawing.Point(101, 624);
+            this.SaveMovie.Name = "SaveMovie";
+            this.SaveMovie.Size = new System.Drawing.Size(164, 37);
+            this.SaveMovie.TabIndex = 23;
+            this.SaveMovie.Text = "Add Movie";
+            this.SaveMovie.UseVisualStyleBackColor = true;
+            this.SaveMovie.Click += new System.EventHandler(this.SaveMovie_Click);
             // 
             // AddMovie
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(389, 566);
+            this.ClientSize = new System.Drawing.Size(389, 673);
+            this.Controls.Add(this.SaveMovie);
+            this.Controls.Add(this.LoadMovie);
             this.Controls.Add(this.SpecialAwards);
             this.Controls.Add(this.Notes);
             this.Controls.Add(this.PersonalRating);
@@ -153,7 +167,6 @@
             this.Controls.Add(this.Rating);
             this.Controls.Add(this.MovieName);
             this.Controls.Add(this.textBox1);
-            this.Controls.Add(this.button1);
             this.Name = "AddMovie";
             this.Text = "AddMovie";
             this.ResumeLayout(false);
@@ -173,6 +186,7 @@
         private Label Rating;
         private Label MovieName;
         private TextBox textBox1;
-        private Button button1;
+        private Button LoadMovie;
+        private Button SaveMovie;
     }
 }
